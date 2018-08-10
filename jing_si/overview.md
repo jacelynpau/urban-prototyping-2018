@@ -1,4 +1,4 @@
-# Name of project
+# Temporary Project Name
 
 **SURNAME First Names**
 
